@@ -1,0 +1,4 @@
+[plain] view plaincopy
+**/*.yaml
+s1.txt
+test/*
